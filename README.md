@@ -4,7 +4,7 @@ Personality Quiz App- **Creator:** Mandana
 
 # Models
 
-![Models](https://i.imgur.com/J1x6UhC.png)
+![Models]()
 
 # Wireframes
 
